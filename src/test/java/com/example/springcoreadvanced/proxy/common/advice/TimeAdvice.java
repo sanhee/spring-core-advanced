@@ -1,6 +1,5 @@
 package com.example.springcoreadvanced.proxy.common.advice;
 
-import com.sun.jdi.Method;
 import lombok.extern.slf4j.Slf4j;
 import org.aopalliance.intercept.MethodInterceptor;
 import org.aopalliance.intercept.MethodInvocation;
